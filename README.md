@@ -1,4 +1,9 @@
 # V-Clean: Smart Waste Management for African Cities
+<h4 align="center">🔧 Weather Station Circuit Diagram</h4>
+<p align="center">
+  <img src="image/V Clean Logo 1.png" width="300"/>
+</p>
+
 
 V-Clean is a resource-aware smart waste management system built for African cities. It combines IoT-enabled smart bins, drone-based waste hotspot mapping, and a mobile citizen reporting platform to help local governments and communities reduce urban pollution and improve public health.
 
