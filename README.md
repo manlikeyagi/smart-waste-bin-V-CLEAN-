@@ -77,7 +77,7 @@ V-Clean is built to operate in **resource-constrained environments** where power
 ## 🎥 Video Demo
 
 Watch V-Clean in action:  
-[Watch on YouTube]([https://your-video-link-here.com](https://youtu.be/88cld7xZsl8?si=8QuW7-0qw8cCKEym))
+(https://youtu.be/88cld7xZsl8?si=8QuW7-0qw8cCKEym))
 
 
 ## 📫 Contact
