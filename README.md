@@ -31,13 +31,13 @@ V-Clean is built to operate in **resource-constrained environments** where power
 - **Citizen App:** Android app (Flutter) that enables citizens to report waste, upload photos, and tag urgency.
 - - <h4 align="center">🔧 Weather Station Circuit Diagram</h4>
 <p align="center">
-  <img src="image/vclean mobile application 3.jpg="300"/>
+  <img src="image/vclean mobile application 3.jpg" width="300"/>
 </p>
   
 - **Dashboard:** Cloud-based analytics dashboard for waste management agencies to visualize data and optimize collection routes.
    <h4 align="center">🔧 Weather Station Circuit Diagram</h4>
 <p align="center">
-  <img src="image/vclean mobile application 2.jpg="300"/>
+   <img src="image/vclean mobile application 2.jpg" width="300"/>
 </p>
   
 
