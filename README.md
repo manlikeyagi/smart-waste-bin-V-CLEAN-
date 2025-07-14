@@ -6,7 +6,7 @@
 
 
 V-Clean is a resource-aware smart waste management system built for African cities. It combines IoT-enabled smart bins, drone-based waste hotspot mapping, and a mobile citizen reporting platform to help local governments and communities reduce urban pollution and improve public health.
-**Website:** [https://yourwebsite.com](https://www.vclean.org/)  
+**Website:** [(https://www.vclean.org/)](https://www.vclean.org/)  
 
 ## 🌍 Problem
 
