@@ -23,6 +23,11 @@ V-Clean is built to operate in **resource-constrained environments** where power
   <img src="image/NES00146.JPG" width="300"/>
 </p>
 - **Drone Mapping:** High-resolution drones integrated with GIS to detect illegal dumpsites and monitor waste patterns.
+- <h4 align="center">🔧 Weather Station Circuit Diagram</h4>
+<p align="center">
+  <img src="Copy of NES00195.JPG" width="300"/>
+</p>
+
 - **Citizen App:** Android app (Flutter) that enables citizens to report waste, upload photos, and tag urgency.
 - **Dashboard:** Cloud-based analytics dashboard for waste management agencies to visualize data and optimize collection routes.
 
