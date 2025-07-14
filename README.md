@@ -82,7 +82,7 @@ Coming soon — videos and images of V-Clean in action will be uploaded here.
 For inquiries or collaboration:
 - **Founder:** Temitope Ridwan Okunbamu
 - **Email:** okunbamuyagi@gmail.com
-- **LinkedIn:** [Temitope Okunbamu](https://www.linkedin.com/in/temitopeokunbamu)
+- **LinkedIn:** [Temitope Okunbamu](https://www.linkedin.com/in/okunbamu-temitope-122a37226/)
 
 ---
 
