@@ -83,7 +83,7 @@ Watch V-Clean in action:
 ## 📫 Contact
 
 
-   <h4 align="center">Headshotn</h4>
+   <h4 align="center">Headshot</h4>
 <p align="center">
    <img src="image/headshot.JPG" width="200"/>
 </p>
