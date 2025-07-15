@@ -82,6 +82,11 @@ Watch V-Clean in action:
 
 ## 📫 Contact
 
+
+   <h4 align="center">Headshotn</h4>
+<p align="center">
+   <img src="image/headshot.JPG" width="200"/>
+</p>
 For inquiries or collaboration:
 - **Founder:** Temitope Ridwan Okunbamu
 - **Email:** okunbamuyagi@gmail.com
