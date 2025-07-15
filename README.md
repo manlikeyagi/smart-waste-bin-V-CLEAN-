@@ -87,10 +87,12 @@ Watch V-Clean in action:
 <p align="center">
    <img src="image/headshot.JPG" width="200"/>
 </p>
+
+
 For inquiries or collaboration:
-- **Founder:** Temitope Ridwan Okunbamu
-- **Email:** okunbamuyagi@gmail.com
-- **LinkedIn:** [Temitope Okunbamu](https://www.linkedin.com/in/okunbamu-temitope-122a37226/)
+- Founder:Temitope Ridwan Okunbamu
+- Email: okunbamuyagi@gmail.com
+- LinkedIn: [Temitope Okunbamu](https://www.linkedin.com/in/okunbamu-temitope-122a37226/)
 
 ---
 
